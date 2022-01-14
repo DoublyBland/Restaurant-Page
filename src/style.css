@@ -1,0 +1,25 @@
+body {
+    display: table;
+}
+
+.header {
+    background-color: #bbbbbb;
+    text-align: center;
+    padding: 20px;
+    display: table-header-group;
+    width: 100%;
+  }
+
+  .footer {
+    background-color: #bbbbbb;
+    text-align: center;
+    padding: 10px;
+    display: table-footer-group;
+    height: 12px;
+    width: 100%;
+  }
+
+button{
+  margin: 15px;
+  font-size: 16px;
+}
